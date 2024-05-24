@@ -1,0 +1,1254 @@
+{
+  "countries": {
+    "AD": {
+      "3166-1_alpha_2": "AD",
+      "3166-1_name": "Andorra",
+      "4217_alpha_3": "EUR"
+    },
+    "AE": {
+      "3166-1_alpha_2": "AE",
+      "3166-1_name": "United Arab Emirates",
+      "4217_alpha_3": "AED"
+    },
+    "AF": {
+      "3166-1_alpha_2": "AF",
+      "3166-1_name": "Afghanistan",
+      "4217_alpha_3": "AFN"
+    },
+    "AG": {
+      "3166-1_alpha_2": "AG",
+      "3166-1_name": "Antigua and Barbuda",
+      "4217_alpha_3": "XCD"
+    },
+    "AI": {
+      "3166-1_alpha_2": "AI",
+      "3166-1_name": "Anguilla",
+      "4217_alpha_3": "XCD"
+    },
+    "AL": {
+      "3166-1_alpha_2": "AL",
+      "3166-1_name": "Albania",
+      "4217_alpha_3": "ALL"
+    },
+    "AM": {
+      "3166-1_alpha_2": "AM",
+      "3166-1_name": "Armenia",
+      "4217_alpha_3": "AMD"
+    },
+    "AO": {
+      "3166-1_alpha_2": "AO",
+      "3166-1_name": "Angola",
+      "4217_alpha_3": "AOA"
+    },
+    "AQ": {
+      "3166-1_alpha_2": "AQ",
+      "3166-1_name": "Antarctica",
+      "4217_alpha_3": ""
+    },
+    "AR": {
+      "3166-1_alpha_2": "AR",
+      "3166-1_name": "Argentina",
+      "4217_alpha_3": "ARS"
+    },
+    "AS": {
+      "3166-1_alpha_2": "AS",
+      "3166-1_name": "American Samoa",
+      "4217_alpha_3": "USD"
+    },
+    "AT": {
+      "3166-1_alpha_2": "AT",
+      "3166-1_name": "Austria",
+      "4217_alpha_3": "EUR"
+    },
+    "AU": {
+      "3166-1_alpha_2": "AU",
+      "3166-1_name": "Australia",
+      "4217_alpha_3": "AUD"
+    },
+    "AW": {
+      "3166-1_alpha_2": "AW",
+      "3166-1_name": "Aruba",
+      "4217_alpha_3": "AWG"
+    },
+    "AX": {
+      "3166-1_alpha_2": "AX",
+      "3166-1_name": "\u00c5land",
+      "4217_alpha_3": "EUR"
+    },
+    "AZ": {
+      "3166-1_alpha_2": "AZ",
+      "3166-1_name": "Azerbaijan",
+      "4217_alpha_3": "AZN"
+    },
+    "BA": {
+      "3166-1_alpha_2": "BA",
+      "3166-1_name": "Bosnia and Herzegovina",
+      "4217_alpha_3": "BAM"
+    },
+    "BB": {
+      "3166-1_alpha_2": "BB",
+      "3166-1_name": "Barbados",
+      "4217_alpha_3": "BBD"
+    },
+    "BD": {
+      "3166-1_alpha_2": "BD",
+      "3166-1_name": "Bangladesh",
+      "4217_alpha_3": "BDT"
+    },
+    "BE": {
+      "3166-1_alpha_2": "BE",
+      "3166-1_name": "Belgium",
+      "4217_alpha_3": "EUR"
+    },
+    "BF": {
+      "3166-1_alpha_2": "BF",
+      "3166-1_name": "Burkina Faso",
+      "4217_alpha_3": "XOF"
+    },
+    "BG": {
+      "3166-1_alpha_2": "BG",
+      "3166-1_name": "Bulgaria",
+      "4217_alpha_3": "BGN"
+    },
+    "BH": {
+      "3166-1_alpha_2": "BH",
+      "3166-1_name": "Bahrain",
+      "4217_alpha_3": "BHD"
+    },
+    "BI": {
+      "3166-1_alpha_2": "BI",
+      "3166-1_name": "Burundi",
+      "4217_alpha_3": "BIF"
+    },
+    "BJ": {
+      "3166-1_alpha_2": "BJ",
+      "3166-1_name": "Benin",
+      "4217_alpha_3": "XOF"
+    },
+    "BL": {
+      "3166-1_alpha_2": "BL",
+      "3166-1_name": "Saint Barth\u00e9lemy",
+      "4217_alpha_3": "EUR"
+    },
+    "BM": {
+      "3166-1_alpha_2": "BM",
+      "3166-1_name": "Bermuda",
+      "4217_alpha_3": "BMD"
+    },
+    "BN": {
+      "3166-1_alpha_2": "BN",
+      "3166-1_name": "Brunei",
+      "4217_alpha_3": "BND"
+    },
+    "BO": {
+      "3166-1_alpha_2": "BO",
+      "3166-1_name": "Bolivia",
+      "4217_alpha_3": "BOB"
+    },
+    "BQ": {
+      "3166-1_alpha_2": "BQ",
+      "3166-1_name": "Bonaire",
+      "4217_alpha_3": "USD"
+    },
+    "BR": {
+      "3166-1_alpha_2": "BR",
+      "3166-1_name": "Brazil",
+      "4217_alpha_3": "BRL"
+    },
+    "BS": {
+      "3166-1_alpha_2": "BS",
+      "3166-1_name": "Bahamas",
+      "4217_alpha_3": "BSD"
+    },
+    "BT": {
+      "3166-1_alpha_2": "BT",
+      "3166-1_name": "Bhutan",
+      "4217_alpha_3": "BTN"
+    },
+    "BV": {
+      "3166-1_alpha_2": "BV",
+      "3166-1_name": "Bouvet Island",
+      "4217_alpha_3": "NOK"
+    },
+    "BW": {
+      "3166-1_alpha_2": "BW",
+      "3166-1_name": "Botswana",
+      "4217_alpha_3": "BWP"
+    },
+    "BY": {
+      "3166-1_alpha_2": "BY",
+      "3166-1_name": "Belarus",
+      "4217_alpha_3": "BYR"
+    },
+    "BZ": {
+      "3166-1_alpha_2": "BZ",
+      "3166-1_name": "Belize",
+      "4217_alpha_3": "BZD"
+    },
+    "CA": {
+      "3166-1_alpha_2": "CA",
+      "3166-1_name": "Canada",
+      "4217_alpha_3": "CAD"
+    },
+    "CC": {
+      "3166-1_alpha_2": "CC",
+      "3166-1_name": "Cocos [Keeling] Islands",
+      "4217_alpha_3": "AUD"
+    },
+    "CD": {
+      "3166-1_alpha_2": "CD",
+      "3166-1_name": "Democratic Republic of the Congo",
+      "4217_alpha_3": "CDF"
+    },
+    "CF": {
+      "3166-1_alpha_2": "CF",
+      "3166-1_name": "Central African Republic",
+      "4217_alpha_3": "XAF"
+    },
+    "CG": {
+      "3166-1_alpha_2": "CG",
+      "3166-1_name": "Republic of the Congo",
+      "4217_alpha_3": "XAF"
+    },
+    "CH": {
+      "3166-1_alpha_2": "CH",
+      "3166-1_name": "Switzerland",
+      "4217_alpha_3": "CHF"
+    },
+    "CI": {
+      "3166-1_alpha_2": "CI",
+      "3166-1_name": "Ivory Coast",
+      "4217_alpha_3": "XOF"
+    },
+    "CK": {
+      "3166-1_alpha_2": "CK",
+      "3166-1_name": "Cook Islands",
+      "4217_alpha_3": "NZD"
+    },
+    "CL": {
+      "3166-1_alpha_2": "CL",
+      "3166-1_name": "Chile",
+      "4217_alpha_3": "CLP"
+    },
+    "CM": {
+      "3166-1_alpha_2": "CM",
+      "3166-1_name": "Cameroon",
+      "4217_alpha_3": "XAF"
+    },
+    "CN": {
+      "3166-1_alpha_2": "CN",
+      "3166-1_name": "China",
+      "4217_alpha_3": "CNY"
+    },
+    "CO": {
+      "3166-1_alpha_2": "CO",
+      "3166-1_name": "Colombia",
+      "4217_alpha_3": "COP"
+    },
+    "CR": {
+      "3166-1_alpha_2": "CR",
+      "3166-1_name": "Costa Rica",
+      "4217_alpha_3": "CRC"
+    },
+    "CU": {
+      "3166-1_alpha_2": "CU",
+      "3166-1_name": "Cuba",
+      "4217_alpha_3": "CUP"
+    },
+    "CV": {
+      "3166-1_alpha_2": "CV",
+      "3166-1_name": "Cape Verde",
+      "4217_alpha_3": "CVE"
+    },
+    "CW": {
+      "3166-1_alpha_2": "CW",
+      "3166-1_name": "Curacao",
+      "4217_alpha_3": "ANG"
+    },
+    "CX": {
+      "3166-1_alpha_2": "CX",
+      "3166-1_name": "Christmas Island",
+      "4217_alpha_3": "AUD"
+    },
+    "CY": {
+      "3166-1_alpha_2": "CY",
+      "3166-1_name": "Cyprus",
+      "4217_alpha_3": "EUR"
+    },
+    "CZ": {
+      "3166-1_alpha_2": "CZ",
+      "3166-1_name": "Czechia",
+      "4217_alpha_3": "CZK"
+    },
+    "DE": {
+      "3166-1_alpha_2": "DE",
+      "3166-1_name": "Germany",
+      "4217_alpha_3": "EUR"
+    },
+    "DJ": {
+      "3166-1_alpha_2": "DJ",
+      "3166-1_name": "Djibouti",
+      "4217_alpha_3": "DJF"
+    },
+    "DK": {
+      "3166-1_alpha_2": "DK",
+      "3166-1_name": "Denmark",
+      "4217_alpha_3": "DKK"
+    },
+    "DM": {
+      "3166-1_alpha_2": "DM",
+      "3166-1_name": "Dominica",
+      "4217_alpha_3": "XCD"
+    },
+    "DO": {
+      "3166-1_alpha_2": "DO",
+      "3166-1_name": "Dominican Republic",
+      "4217_alpha_3": "DOP"
+    },
+    "DZ": {
+      "3166-1_alpha_2": "DZ",
+      "3166-1_name": "Algeria",
+      "4217_alpha_3": "DZD"
+    },
+    "EC": {
+      "3166-1_alpha_2": "EC",
+      "3166-1_name": "Ecuador",
+      "4217_alpha_3": "USD"
+    },
+    "EE": {
+      "3166-1_alpha_2": "EE",
+      "3166-1_name": "Estonia",
+      "4217_alpha_3": "EUR"
+    },
+    "EG": {
+      "3166-1_alpha_2": "EG",
+      "3166-1_name": "Egypt",
+      "4217_alpha_3": "EGP"
+    },
+    "EH": {
+      "3166-1_alpha_2": "EH",
+      "3166-1_name": "Western Sahara",
+      "4217_alpha_3": "MAD"
+    },
+    "ER": {
+      "3166-1_alpha_2": "ER",
+      "3166-1_name": "Eritrea",
+      "4217_alpha_3": "ERN"
+    },
+    "ES": {
+      "3166-1_alpha_2": "ES",
+      "3166-1_name": "Spain",
+      "4217_alpha_3": "EUR"
+    },
+    "ET": {
+      "3166-1_alpha_2": "ET",
+      "3166-1_name": "Ethiopia",
+      "4217_alpha_3": "ETB"
+    },
+    "FI": {
+      "3166-1_alpha_2": "FI",
+      "3166-1_name": "Finland",
+      "4217_alpha_3": "EUR"
+    },
+    "FJ": {
+      "3166-1_alpha_2": "FJ",
+      "3166-1_name": "Fiji",
+      "4217_alpha_3": "FJD"
+    },
+    "FK": {
+      "3166-1_alpha_2": "FK",
+      "3166-1_name": "Falkland Islands",
+      "4217_alpha_3": "FKP"
+    },
+    "FM": {
+      "3166-1_alpha_2": "FM",
+      "3166-1_name": "Micronesia",
+      "4217_alpha_3": "USD"
+    },
+    "FO": {
+      "3166-1_alpha_2": "FO",
+      "3166-1_name": "Faroe Islands",
+      "4217_alpha_3": "DKK"
+    },
+    "FR": {
+      "3166-1_alpha_2": "FR",
+      "3166-1_name": "France",
+      "4217_alpha_3": "EUR"
+    },
+    "GA": {
+      "3166-1_alpha_2": "GA",
+      "3166-1_name": "Gabon",
+      "4217_alpha_3": "XAF"
+    },
+    "GB": {
+      "3166-1_alpha_2": "GB",
+      "3166-1_name": "United Kingdom",
+      "4217_alpha_3": "GBP"
+    },
+    "GD": {
+      "3166-1_alpha_2": "GD",
+      "3166-1_name": "Grenada",
+      "4217_alpha_3": "XCD"
+    },
+    "GE": {
+      "3166-1_alpha_2": "GE",
+      "3166-1_name": "Georgia",
+      "4217_alpha_3": "GEL"
+    },
+    "GF": {
+      "3166-1_alpha_2": "GF",
+      "3166-1_name": "French Guiana",
+      "4217_alpha_3": "EUR"
+    },
+    "GG": {
+      "3166-1_alpha_2": "GG",
+      "3166-1_name": "Guernsey",
+      "4217_alpha_3": "GBP"
+    },
+    "GH": {
+      "3166-1_alpha_2": "GH",
+      "3166-1_name": "Ghana",
+      "4217_alpha_3": "GHS"
+    },
+    "GI": {
+      "3166-1_alpha_2": "GI",
+      "3166-1_name": "Gibraltar",
+      "4217_alpha_3": "GIP"
+    },
+    "GL": {
+      "3166-1_alpha_2": "GL",
+      "3166-1_name": "Greenland",
+      "4217_alpha_3": "DKK"
+    },
+    "GM": {
+      "3166-1_alpha_2": "GM",
+      "3166-1_name": "Gambia",
+      "4217_alpha_3": "GMD"
+    },
+    "GN": {
+      "3166-1_alpha_2": "GN",
+      "3166-1_name": "Guinea",
+      "4217_alpha_3": "GNF"
+    },
+    "GP": {
+      "3166-1_alpha_2": "GP",
+      "3166-1_name": "Guadeloupe",
+      "4217_alpha_3": "EUR"
+    },
+    "GQ": {
+      "3166-1_alpha_2": "GQ",
+      "3166-1_name": "Equatorial Guinea",
+      "4217_alpha_3": "XAF"
+    },
+    "GR": {
+      "3166-1_alpha_2": "GR",
+      "3166-1_name": "Greece",
+      "4217_alpha_3": "EUR"
+    },
+    "GS": {
+      "3166-1_alpha_2": "GS",
+      "3166-1_name": "South Georgia and the South Sandwich Islands",
+      "4217_alpha_3": "GBP"
+    },
+    "GT": {
+      "3166-1_alpha_2": "GT",
+      "3166-1_name": "Guatemala",
+      "4217_alpha_3": "GTQ"
+    },
+    "GU": {
+      "3166-1_alpha_2": "GU",
+      "3166-1_name": "Guam",
+      "4217_alpha_3": "USD"
+    },
+    "GW": {
+      "3166-1_alpha_2": "GW",
+      "3166-1_name": "Guinea-Bissau",
+      "4217_alpha_3": "XOF"
+    },
+    "GY": {
+      "3166-1_alpha_2": "GY",
+      "3166-1_name": "Guyana",
+      "4217_alpha_3": "GYD"
+    },
+    "HK": {
+      "3166-1_alpha_2": "HK",
+      "3166-1_name": "Hong Kong",
+      "4217_alpha_3": "HKD"
+    },
+    "HM": {
+      "3166-1_alpha_2": "HM",
+      "3166-1_name": "Heard Island and McDonald Islands",
+      "4217_alpha_3": "AUD"
+    },
+    "HN": {
+      "3166-1_alpha_2": "HN",
+      "3166-1_name": "Honduras",
+      "4217_alpha_3": "HNL"
+    },
+    "HR": {
+      "3166-1_alpha_2": "HR",
+      "3166-1_name": "Croatia",
+      "4217_alpha_3": "HRK"
+    },
+    "HT": {
+      "3166-1_alpha_2": "HT",
+      "3166-1_name": "Haiti",
+      "4217_alpha_3": "HTG"
+    },
+    "HU": {
+      "3166-1_alpha_2": "HU",
+      "3166-1_name": "Hungary",
+      "4217_alpha_3": "HUF"
+    },
+    "ID": {
+      "3166-1_alpha_2": "ID",
+      "3166-1_name": "Indonesia",
+      "4217_alpha_3": "IDR"
+    },
+    "IE": {
+      "3166-1_alpha_2": "IE",
+      "3166-1_name": "Ireland",
+      "4217_alpha_3": "EUR"
+    },
+    "IL": {
+      "3166-1_alpha_2": "IL",
+      "3166-1_name": "Israel",
+      "4217_alpha_3": "ILS"
+    },
+    "IM": {
+      "3166-1_alpha_2": "IM",
+      "3166-1_name": "Isle of Man",
+      "4217_alpha_3": "GBP"
+    },
+    "IN": {
+      "3166-1_alpha_2": "IN",
+      "3166-1_name": "India",
+      "4217_alpha_3": "INR"
+    },
+    "IO": {
+      "3166-1_alpha_2": "IO",
+      "3166-1_name": "British Indian Ocean Territory",
+      "4217_alpha_3": "USD"
+    },
+    "IQ": {
+      "3166-1_alpha_2": "IQ",
+      "3166-1_name": "Iraq",
+      "4217_alpha_3": "IQD"
+    },
+    "IR": {
+      "3166-1_alpha_2": "IR",
+      "3166-1_name": "Iran",
+      "4217_alpha_3": "IRR"
+    },
+    "IS": {
+      "3166-1_alpha_2": "IS",
+      "3166-1_name": "Iceland",
+      "4217_alpha_3": "ISK"
+    },
+    "IT": {
+      "3166-1_alpha_2": "IT",
+      "3166-1_name": "Italy",
+      "4217_alpha_3": "EUR"
+    },
+    "JE": {
+      "3166-1_alpha_2": "JE",
+      "3166-1_name": "Jersey",
+      "4217_alpha_3": "GBP"
+    },
+    "JM": {
+      "3166-1_alpha_2": "JM",
+      "3166-1_name": "Jamaica",
+      "4217_alpha_3": "JMD"
+    },
+    "JO": {
+      "3166-1_alpha_2": "JO",
+      "3166-1_name": "Jordan",
+      "4217_alpha_3": "JOD"
+    },
+    "JP": {
+      "3166-1_alpha_2": "JP",
+      "3166-1_name": "Japan",
+      "4217_alpha_3": "JPY"
+    },
+    "KE": {
+      "3166-1_alpha_2": "KE",
+      "3166-1_name": "Kenya",
+      "4217_alpha_3": "KES"
+    },
+    "KG": {
+      "3166-1_alpha_2": "KG",
+      "3166-1_name": "Kyrgyzstan",
+      "4217_alpha_3": "KGS"
+    },
+    "KH": {
+      "3166-1_alpha_2": "KH",
+      "3166-1_name": "Cambodia",
+      "4217_alpha_3": "KHR"
+    },
+    "KI": {
+      "3166-1_alpha_2": "KI",
+      "3166-1_name": "Kiribati",
+      "4217_alpha_3": "AUD"
+    },
+    "KM": {
+      "3166-1_alpha_2": "KM",
+      "3166-1_name": "Comoros",
+      "4217_alpha_3": "KMF"
+    },
+    "KN": {
+      "3166-1_alpha_2": "KN",
+      "3166-1_name": "Saint Kitts and Nevis",
+      "4217_alpha_3": "XCD"
+    },
+    "KP": {
+      "3166-1_alpha_2": "KP",
+      "3166-1_name": "North Korea",
+      "4217_alpha_3": "KPW"
+    },
+    "KR": {
+      "3166-1_alpha_2": "KR",
+      "3166-1_name": "South Korea",
+      "4217_alpha_3": "KRW"
+    },
+    "KW": {
+      "3166-1_alpha_2": "KW",
+      "3166-1_name": "Kuwait",
+      "4217_alpha_3": "KWD"
+    },
+    "KY": {
+      "3166-1_alpha_2": "KY",
+      "3166-1_name": "Cayman Islands",
+      "4217_alpha_3": "KYD"
+    },
+    "KZ": {
+      "3166-1_alpha_2": "KZ",
+      "3166-1_name": "Kazakhstan",
+      "4217_alpha_3": "KZT"
+    },
+    "LA": {
+      "3166-1_alpha_2": "LA",
+      "3166-1_name": "Laos",
+      "4217_alpha_3": "LAK"
+    },
+    "LB": {
+      "3166-1_alpha_2": "LB",
+      "3166-1_name": "Lebanon",
+      "4217_alpha_3": "LBP"
+    },
+    "LC": {
+      "3166-1_alpha_2": "LC",
+      "3166-1_name": "Saint Lucia",
+      "4217_alpha_3": "XCD"
+    },
+    "LI": {
+      "3166-1_alpha_2": "LI",
+      "3166-1_name": "Liechtenstein",
+      "4217_alpha_3": "CHF"
+    },
+    "LK": {
+      "3166-1_alpha_2": "LK",
+      "3166-1_name": "Sri Lanka",
+      "4217_alpha_3": "LKR"
+    },
+    "LR": {
+      "3166-1_alpha_2": "LR",
+      "3166-1_name": "Liberia",
+      "4217_alpha_3": "LRD"
+    },
+    "LS": {
+      "3166-1_alpha_2": "LS",
+      "3166-1_name": "Lesotho",
+      "4217_alpha_3": "LSL"
+    },
+    "LT": {
+      "3166-1_alpha_2": "LT",
+      "3166-1_name": "Lithuania",
+      "4217_alpha_3": "EUR"
+    },
+    "LU": {
+      "3166-1_alpha_2": "LU",
+      "3166-1_name": "Luxembourg",
+      "4217_alpha_3": "EUR"
+    },
+    "LV": {
+      "3166-1_alpha_2": "LV",
+      "3166-1_name": "Latvia",
+      "4217_alpha_3": "EUR"
+    },
+    "LY": {
+      "3166-1_alpha_2": "LY",
+      "3166-1_name": "Libya",
+      "4217_alpha_3": "LYD"
+    },
+    "MA": {
+      "3166-1_alpha_2": "MA",
+      "3166-1_name": "Morocco",
+      "4217_alpha_3": "MAD"
+    },
+    "MC": {
+      "3166-1_alpha_2": "MC",
+      "3166-1_name": "Monaco",
+      "4217_alpha_3": "EUR"
+    },
+    "MD": {
+      "3166-1_alpha_2": "MD",
+      "3166-1_name": "Moldova",
+      "4217_alpha_3": "MDL"
+    },
+    "ME": {
+      "3166-1_alpha_2": "ME",
+      "3166-1_name": "Montenegro",
+      "4217_alpha_3": "EUR"
+    },
+    "MF": {
+      "3166-1_alpha_2": "MF",
+      "3166-1_name": "Saint Martin",
+      "4217_alpha_3": "EUR"
+    },
+    "MG": {
+      "3166-1_alpha_2": "MG",
+      "3166-1_name": "Madagascar",
+      "4217_alpha_3": "MGA"
+    },
+    "MH": {
+      "3166-1_alpha_2": "MH",
+      "3166-1_name": "Marshall Islands",
+      "4217_alpha_3": "USD"
+    },
+    "MK": {
+      "3166-1_alpha_2": "MK",
+      "3166-1_name": "Macedonia",
+      "4217_alpha_3": "MKD"
+    },
+    "ML": {
+      "3166-1_alpha_2": "ML",
+      "3166-1_name": "Mali",
+      "4217_alpha_3": "XOF"
+    },
+    "MM": {
+      "3166-1_alpha_2": "MM",
+      "3166-1_name": "Myanmar [Burma]",
+      "4217_alpha_3": "MMK"
+    },
+    "MN": {
+      "3166-1_alpha_2": "MN",
+      "3166-1_name": "Mongolia",
+      "4217_alpha_3": "MNT"
+    },
+    "MO": {
+      "3166-1_alpha_2": "MO",
+      "3166-1_name": "Macao",
+      "4217_alpha_3": "MOP"
+    },
+    "MP": {
+      "3166-1_alpha_2": "MP",
+      "3166-1_name": "Northern Mariana Islands",
+      "4217_alpha_3": "USD"
+    },
+    "MQ": {
+      "3166-1_alpha_2": "MQ",
+      "3166-1_name": "Martinique",
+      "4217_alpha_3": "EUR"
+    },
+    "MR": {
+      "3166-1_alpha_2": "MR",
+      "3166-1_name": "Mauritania",
+      "4217_alpha_3": "MRO"
+    },
+    "MS": {
+      "3166-1_alpha_2": "MS",
+      "3166-1_name": "Montserrat",
+      "4217_alpha_3": "XCD"
+    },
+    "MT": {
+      "3166-1_alpha_2": "MT",
+      "3166-1_name": "Malta",
+      "4217_alpha_3": "EUR"
+    },
+    "MU": {
+      "3166-1_alpha_2": "MU",
+      "3166-1_name": "Mauritius",
+      "4217_alpha_3": "MUR"
+    },
+    "MV": {
+      "3166-1_alpha_2": "MV",
+      "3166-1_name": "Maldives",
+      "4217_alpha_3": "MVR"
+    },
+    "MW": {
+      "3166-1_alpha_2": "MW",
+      "3166-1_name": "Malawi",
+      "4217_alpha_3": "MWK"
+    },
+    "MX": {
+      "3166-1_alpha_2": "MX",
+      "3166-1_name": "Mexico",
+      "4217_alpha_3": "MXN"
+    },
+    "MY": {
+      "3166-1_alpha_2": "MY",
+      "3166-1_name": "Malaysia",
+      "4217_alpha_3": "MYR"
+    },
+    "MZ": {
+      "3166-1_alpha_2": "MZ",
+      "3166-1_name": "Mozambique",
+      "4217_alpha_3": "MZN"
+    },
+    "NA": {
+      "3166-1_alpha_2": "NA",
+      "3166-1_name": "Namibia",
+      "4217_alpha_3": "NAD"
+    },
+    "NC": {
+      "3166-1_alpha_2": "NC",
+      "3166-1_name": "New Caledonia",
+      "4217_alpha_3": "XPF"
+    },
+    "NE": {
+      "3166-1_alpha_2": "NE",
+      "3166-1_name": "Niger",
+      "4217_alpha_3": "XOF"
+    },
+    "NF": {
+      "3166-1_alpha_2": "NF",
+      "3166-1_name": "Norfolk Island",
+      "4217_alpha_3": "AUD"
+    },
+    "NG": {
+      "3166-1_alpha_2": "NG",
+      "3166-1_name": "Nigeria",
+      "4217_alpha_3": "NGN"
+    },
+    "NI": {
+      "3166-1_alpha_2": "NI",
+      "3166-1_name": "Nicaragua",
+      "4217_alpha_3": "NIO"
+    },
+    "NL": {
+      "3166-1_alpha_2": "NL",
+      "3166-1_name": "Netherlands",
+      "4217_alpha_3": "EUR"
+    },
+    "NO": {
+      "3166-1_alpha_2": "NO",
+      "3166-1_name": "Norway",
+      "4217_alpha_3": "NOK"
+    },
+    "NP": {
+      "3166-1_alpha_2": "NP",
+      "3166-1_name": "Nepal",
+      "4217_alpha_3": "NPR"
+    },
+    "NR": {
+      "3166-1_alpha_2": "NR",
+      "3166-1_name": "Nauru",
+      "4217_alpha_3": "AUD"
+    },
+    "NU": {
+      "3166-1_alpha_2": "NU",
+      "3166-1_name": "Niue",
+      "4217_alpha_3": "NZD"
+    },
+    "NZ": {
+      "3166-1_alpha_2": "NZ",
+      "3166-1_name": "New Zealand",
+      "4217_alpha_3": "NZD"
+    },
+    "OM": {
+      "3166-1_alpha_2": "OM",
+      "3166-1_name": "Oman",
+      "4217_alpha_3": "OMR"
+    },
+    "PA": {
+      "3166-1_alpha_2": "PA",
+      "3166-1_name": "Panama",
+      "4217_alpha_3": "PAB"
+    },
+    "PE": {
+      "3166-1_alpha_2": "PE",
+      "3166-1_name": "Peru",
+      "4217_alpha_3": "PEN"
+    },
+    "PF": {
+      "3166-1_alpha_2": "PF",
+      "3166-1_name": "French Polynesia",
+      "4217_alpha_3": "XPF"
+    },
+    "PG": {
+      "3166-1_alpha_2": "PG",
+      "3166-1_name": "Papua New Guinea",
+      "4217_alpha_3": "PGK"
+    },
+    "PH": {
+      "3166-1_alpha_2": "PH",
+      "3166-1_name": "Philippines",
+      "4217_alpha_3": "PHP"
+    },
+    "PK": {
+      "3166-1_alpha_2": "PK",
+      "3166-1_name": "Pakistan",
+      "4217_alpha_3": "PKR"
+    },
+    "PL": {
+      "3166-1_alpha_2": "PL",
+      "3166-1_name": "Poland",
+      "4217_alpha_3": "PLN"
+    },
+    "PM": {
+      "3166-1_alpha_2": "PM",
+      "3166-1_name": "Saint Pierre and Miquelon",
+      "4217_alpha_3": "EUR"
+    },
+    "PN": {
+      "3166-1_alpha_2": "PN",
+      "3166-1_name": "Pitcairn Islands",
+      "4217_alpha_3": "NZD"
+    },
+    "PR": {
+      "3166-1_alpha_2": "PR",
+      "3166-1_name": "Puerto Rico",
+      "4217_alpha_3": "USD"
+    },
+    "PS": {
+      "3166-1_alpha_2": "PS",
+      "3166-1_name": "Palestine",
+      "4217_alpha_3": "ILS"
+    },
+    "PT": {
+      "3166-1_alpha_2": "PT",
+      "3166-1_name": "Portugal",
+      "4217_alpha_3": "EUR"
+    },
+    "PW": {
+      "3166-1_alpha_2": "PW",
+      "3166-1_name": "Palau",
+      "4217_alpha_3": "USD"
+    },
+    "PY": {
+      "3166-1_alpha_2": "PY",
+      "3166-1_name": "Paraguay",
+      "4217_alpha_3": "PYG"
+    },
+    "QA": {
+      "3166-1_alpha_2": "QA",
+      "3166-1_name": "Qatar",
+      "4217_alpha_3": "QAR"
+    },
+    "RE": {
+      "3166-1_alpha_2": "RE",
+      "3166-1_name": "R\u00e9union",
+      "4217_alpha_3": "EUR"
+    },
+    "RO": {
+      "3166-1_alpha_2": "RO",
+      "3166-1_name": "Romania",
+      "4217_alpha_3": "RON"
+    },
+    "RS": {
+      "3166-1_alpha_2": "RS",
+      "3166-1_name": "Serbia",
+      "4217_alpha_3": "RSD"
+    },
+    "RU": {
+      "3166-1_alpha_2": "RU",
+      "3166-1_name": "Russia",
+      "4217_alpha_3": "RUB"
+    },
+    "RW": {
+      "3166-1_alpha_2": "RW",
+      "3166-1_name": "Rwanda",
+      "4217_alpha_3": "RWF"
+    },
+    "SA": {
+      "3166-1_alpha_2": "SA",
+      "3166-1_name": "Saudi Arabia",
+      "4217_alpha_3": "SAR"
+    },
+    "SB": {
+      "3166-1_alpha_2": "SB",
+      "3166-1_name": "Solomon Islands",
+      "4217_alpha_3": "SBD"
+    },
+    "SC": {
+      "3166-1_alpha_2": "SC",
+      "3166-1_name": "Seychelles",
+      "4217_alpha_3": "SCR"
+    },
+    "SD": {
+      "3166-1_alpha_2": "SD",
+      "3166-1_name": "Sudan",
+      "4217_alpha_3": "SDG"
+    },
+    "SE": {
+      "3166-1_alpha_2": "SE",
+      "3166-1_name": "Sweden",
+      "4217_alpha_3": "SEK"
+    },
+    "SG": {
+      "3166-1_alpha_2": "SG",
+      "3166-1_name": "Singapore",
+      "4217_alpha_3": "SGD"
+    },
+    "SH": {
+      "3166-1_alpha_2": "SH",
+      "3166-1_name": "Saint Helena",
+      "4217_alpha_3": "SHP"
+    },
+    "SI": {
+      "3166-1_alpha_2": "SI",
+      "3166-1_name": "Slovenia",
+      "4217_alpha_3": "EUR"
+    },
+    "SJ": {
+      "3166-1_alpha_2": "SJ",
+      "3166-1_name": "Svalbard and Jan Mayen",
+      "4217_alpha_3": "NOK"
+    },
+    "SK": {
+      "3166-1_alpha_2": "SK",
+      "3166-1_name": "Slovakia",
+      "4217_alpha_3": "EUR"
+    },
+    "SL": {
+      "3166-1_alpha_2": "SL",
+      "3166-1_name": "Sierra Leone",
+      "4217_alpha_3": "SLL"
+    },
+    "SM": {
+      "3166-1_alpha_2": "SM",
+      "3166-1_name": "San Marino",
+      "4217_alpha_3": "EUR"
+    },
+    "SN": {
+      "3166-1_alpha_2": "SN",
+      "3166-1_name": "Senegal",
+      "4217_alpha_3": "XOF"
+    },
+    "SO": {
+      "3166-1_alpha_2": "SO",
+      "3166-1_name": "Somalia",
+      "4217_alpha_3": "SOS"
+    },
+    "SR": {
+      "3166-1_alpha_2": "SR",
+      "3166-1_name": "Suriname",
+      "4217_alpha_3": "SRD"
+    },
+    "SS": {
+      "3166-1_alpha_2": "SS",
+      "3166-1_name": "South Sudan",
+      "4217_alpha_3": "SSP"
+    },
+    "ST": {
+      "3166-1_alpha_2": "ST",
+      "3166-1_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "4217_alpha_3": "STD"
+    },
+    "SV": {
+      "3166-1_alpha_2": "SV",
+      "3166-1_name": "El Salvador",
+      "4217_alpha_3": "USD"
+    },
+    "SX": {
+      "3166-1_alpha_2": "SX",
+      "3166-1_name": "Sint Maarten",
+      "4217_alpha_3": "ANG"
+    },
+    "SY": {
+      "3166-1_alpha_2": "SY",
+      "3166-1_name": "Syria",
+      "4217_alpha_3": "SYP"
+    },
+    "SZ": {
+      "3166-1_alpha_2": "SZ",
+      "3166-1_name": "Swaziland",
+      "4217_alpha_3": "SZL"
+    },
+    "TC": {
+      "3166-1_alpha_2": "TC",
+      "3166-1_name": "Turks and Caicos Islands",
+      "4217_alpha_3": "USD"
+    },
+    "TD": {
+      "3166-1_alpha_2": "TD",
+      "3166-1_name": "Chad",
+      "4217_alpha_3": "XAF"
+    },
+    "TF": {
+      "3166-1_alpha_2": "TF",
+      "3166-1_name": "French Southern Territories",
+      "4217_alpha_3": "EUR"
+    },
+    "TG": {
+      "3166-1_alpha_2": "TG",
+      "3166-1_name": "Togo",
+      "4217_alpha_3": "XOF"
+    },
+    "TH": {
+      "3166-1_alpha_2": "TH",
+      "3166-1_name": "Thailand",
+      "4217_alpha_3": "THB"
+    },
+    "TJ": {
+      "3166-1_alpha_2": "TJ",
+      "3166-1_name": "Tajikistan",
+      "4217_alpha_3": "TJS"
+    },
+    "TK": {
+      "3166-1_alpha_2": "TK",
+      "3166-1_name": "Tokelau",
+      "4217_alpha_3": "NZD"
+    },
+    "TL": {
+      "3166-1_alpha_2": "TL",
+      "3166-1_name": "East Timor",
+      "4217_alpha_3": "USD"
+    },
+    "TM": {
+      "3166-1_alpha_2": "TM",
+      "3166-1_name": "Turkmenistan",
+      "4217_alpha_3": "TMT"
+    },
+    "TN": {
+      "3166-1_alpha_2": "TN",
+      "3166-1_name": "Tunisia",
+      "4217_alpha_3": "TND"
+    },
+    "TO": {
+      "3166-1_alpha_2": "TO",
+      "3166-1_name": "Tonga",
+      "4217_alpha_3": "TOP"
+    },
+    "TR": {
+      "3166-1_alpha_2": "TR",
+      "3166-1_name": "Turkey",
+      "4217_alpha_3": "TRY"
+    },
+    "TT": {
+      "3166-1_alpha_2": "TT",
+      "3166-1_name": "Trinidad and Tobago",
+      "4217_alpha_3": "TTD"
+    },
+    "TV": {
+      "3166-1_alpha_2": "TV",
+      "3166-1_name": "Tuvalu",
+      "4217_alpha_3": "AUD"
+    },
+    "TW": {
+      "3166-1_alpha_2": "TW",
+      "3166-1_name": "Taiwan",
+      "4217_alpha_3": "TWD"
+    },
+    "TZ": {
+      "3166-1_alpha_2": "TZ",
+      "3166-1_name": "Tanzania",
+      "4217_alpha_3": "TZS"
+    },
+    "UA": {
+      "3166-1_alpha_2": "UA",
+      "3166-1_name": "Ukraine",
+      "4217_alpha_3": "UAH"
+    },
+    "UG": {
+      "3166-1_alpha_2": "UG",
+      "3166-1_name": "Uganda",
+      "4217_alpha_3": "UGX"
+    },
+    "UM": {
+      "3166-1_alpha_2": "UM",
+      "3166-1_name": "U.S. Minor Outlying Islands",
+      "4217_alpha_3": "USD"
+    },
+    "US": {
+      "3166-1_alpha_2": "US",
+      "3166-1_name": "United States",
+      "4217_alpha_3": "USD"
+    },
+    "UY": {
+      "3166-1_alpha_2": "UY",
+      "3166-1_name": "Uruguay",
+      "4217_alpha_3": "UYU"
+    },
+    "UZ": {
+      "3166-1_alpha_2": "UZ",
+      "3166-1_name": "Uzbekistan",
+      "4217_alpha_3": "UZS"
+    },
+    "VA": {
+      "3166-1_alpha_2": "VA",
+      "3166-1_name": "Vatican City",
+      "4217_alpha_3": "EUR"
+    },
+    "VC": {
+      "3166-1_alpha_2": "VC",
+      "3166-1_name": "Saint Vincent and the Grenadines",
+      "4217_alpha_3": "XCD"
+    },
+    "VE": {
+      "3166-1_alpha_2": "VE",
+      "3166-1_name": "Venezuela",
+      "4217_alpha_3": "VEF"
+    },
+    "VG": {
+      "3166-1_alpha_2": "VG",
+      "3166-1_name": "British Virgin Islands",
+      "4217_alpha_3": "USD"
+    },
+    "VI": {
+      "3166-1_alpha_2": "VI",
+      "3166-1_name": "U.S. Virgin Islands",
+      "4217_alpha_3": "USD"
+    },
+    "VN": {
+      "3166-1_alpha_2": "VN",
+      "3166-1_name": "Vietnam",
+      "4217_alpha_3": "VND"
+    },
+    "VU": {
+      "3166-1_alpha_2": "VU",
+      "3166-1_name": "Vanuatu",
+      "4217_alpha_3": "VUV"
+    },
+    "WF": {
+      "3166-1_alpha_2": "WF",
+      "3166-1_name": "Wallis and Futuna",
+      "4217_alpha_3": "XPF"
+    },
+    "WS": {
+      "3166-1_alpha_2": "WS",
+      "3166-1_name": "Samoa",
+      "4217_alpha_3": "WST"
+    },
+    "XK": {
+      "3166-1_alpha_2": "XK",
+      "3166-1_name": "Kosovo",
+      "4217_alpha_3": "EUR"
+    },
+    "YE": {
+      "3166-1_alpha_2": "YE",
+      "3166-1_name": "Yemen",
+      "4217_alpha_3": "YER"
+    },
+    "YT": {
+      "3166-1_alpha_2": "YT",
+      "3166-1_name": "Mayotte",
+      "4217_alpha_3": "EUR"
+    },
+    "ZA": {
+      "3166-1_alpha_2": "ZA",
+      "3166-1_name": "South Africa",
+      "4217_alpha_3": "ZAR"
+    },
+    "ZM": {
+      "3166-1_alpha_2": "ZM",
+      "3166-1_name": "Zambia",
+      "4217_alpha_3": "ZMW"
+    },
+    "ZW": {
+      "3166-1_alpha_2": "ZW",
+      "3166-1_name": "Zimbabwe",
+      "4217_alpha_3": "ZWL"
+    }
+  }
+}
